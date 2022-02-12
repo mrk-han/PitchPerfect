@@ -34,4 +34,6 @@ Code is readable by others.
 
 MP4
 --------------
-![Final Version](https://github.com/mrk-han/pitchperfect/blob/main/pitchperfect-demo720p.mov)
+
+https://user-images.githubusercontent.com/22263679/153726363-bdb327c5-1dd0-4885-a0de-5ac0e88e5860.mov
+
